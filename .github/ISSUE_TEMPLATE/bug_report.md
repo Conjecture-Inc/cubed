@@ -9,11 +9,11 @@ assignees: ''
 
 Where possible, please include the following information along with your bug report:
 
-** Short Description **
+**Short Description**
 
 A concise description of the bug
 
-** Extra Context **
+**Extra Context**
 
 Provide any additional context you have for the bug. Ideally, provide the following:
 - [ ] A screenshot or screen recording of the error occuring
