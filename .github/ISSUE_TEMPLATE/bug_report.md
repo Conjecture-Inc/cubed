@@ -2,7 +2,7 @@
 name: Bug Report
 about: Report anything broken or unexpected happening in Cubed
 title: ''
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
