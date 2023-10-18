@@ -13,4 +13,7 @@ If you haven't got cubed connected to your issue management / version control so
 
 # TODO
 
-add more marketing stuff from the website here
+- [ ] add more marketing stuff from the website here
+- [ ] add screenshots / demos from vilems figma / real screen recordings
+- [ ] add social links
+- [ ] add example usages?
