@@ -2,7 +2,7 @@
 name: Feature request
 about: Suggest a new feature for Cubed or HyperCubed
 title: ''
-labels: 'feature'
+labels: 'enhancement'
 assignees: ''
 
 ---
