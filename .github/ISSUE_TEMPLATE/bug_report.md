@@ -21,6 +21,6 @@ Provide any additional context you have for the bug. Ideally, provide the follow
 - [ ] A rough time at which the error occurred
 - [ ] Steps to reproduce
 
-** (Optional) Proposed Solution **
+**(Optional) Proposed Solution**
 
 If you have any additional information on either why you think the bug is occurring, or any steps we could begin to take to fix it, please leave that here!
